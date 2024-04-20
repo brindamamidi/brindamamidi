@@ -13,6 +13,10 @@ What I'm Working On
 - 📈 Exploring datasets related to cooking, travel, and other interests to practice my data analysis skills.
 - 📚 Building a portfolio of data analysis projects to showcase my abilities and interests.
 
+Education
+- Bachelor of Optometry
+- Bachelor of Science (Biomedical Science)
+
 Get in Touch
 - 📫 Feel free to reach out to me here to connect or collaborate on data analysis projects.
 - 💼 Check out my LinkedIn for more details about my professional background: [LinkedIn](https://www.linkedin.com/in/brinda-mamidi/)
